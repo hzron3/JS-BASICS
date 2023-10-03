@@ -1,0 +1,10 @@
+.container h2{
+    /* text-align: center; */
+    color: crimson;
+    padding: 5px 5px;
+    font-size: 20px;
+}
+.container p{
+    padding: 5px 5px;
+    /* text-align: center; */
+}
